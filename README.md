@@ -7,6 +7,8 @@ A cryptocurrency price tracker which gets the 20 most popular cryptocurrencies f
 1. `git clone https://github.com/mattfrances/CryptoPriceTracker.git` 
 2. `cd CryptoPriceTracker`
 3. `yarn`
-4. `expo start`
-5. Scan the QR code on screen to run it on your device, or write `i` or `a` in your expo terminal to open it in either iOS or Android
+- If it asks you to install expo-cli, type `y`.
+4. `yarn start`
+5. Download the expo app on your phone from the Apple App Store or Google Play Store.
+6. Scan the QR code on screen to run it on your device, or write `i` or `a` in your expo terminal to open it in either iOS or Android
 
